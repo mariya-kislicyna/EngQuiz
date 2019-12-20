@@ -1,0 +1,22 @@
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsCore\bin\Debug\Data\Users.json
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsCore\bin\Debug\Data\TestsData.json
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsCore\bin\Debug\SmartParkingCore.dll
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsCore\bin\Debug\SmartParkingCore.pdb
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsCore\obj\Debug\AppTestsCore.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsCore\obj\Debug\AppTestsCore.csproj.CopyComplete
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsCore\obj\Debug\SmartParkingCore.dll
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsCore\obj\Debug\SmartParkingCore.pdb
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsCore\obj\Debug\AppTestsCore.csprojAssemblyReference.cache
+C:\Users\student\Desktop\AppTests\AppTestsCore\bin\Debug\Data\TestsData.json
+C:\Users\student\Desktop\AppTests\AppTestsCore\bin\Debug\Data\Users.json
+C:\Users\student\Desktop\AppTests\AppTestsCore\bin\Debug\SmartParkingCore.dll
+C:\Users\student\Desktop\AppTests\AppTestsCore\bin\Debug\SmartParkingCore.pdb
+C:\Users\student\Desktop\AppTests\AppTestsCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\AppTests\AppTestsCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\AppTests\AppTestsCore\obj\Debug\AppTestsCore.csprojAssemblyReference.cache
+C:\Users\student\Desktop\AppTests\AppTestsCore\obj\Debug\AppTestsCore.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\AppTests\AppTestsCore\obj\Debug\AppTestsCore.csproj.CopyComplete
+C:\Users\student\Desktop\AppTests\AppTestsCore\obj\Debug\SmartParkingCore.dll
+C:\Users\student\Desktop\AppTests\AppTestsCore\obj\Debug\SmartParkingCore.pdb

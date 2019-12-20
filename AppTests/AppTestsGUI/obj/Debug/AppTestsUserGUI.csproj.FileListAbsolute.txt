@@ -1,0 +1,36 @@
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\bin\Debug\Data\Users.json
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\bin\Debug\Data\TestsData.json
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\bin\Debug\SmartParkingUserGUI.exe.config
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\bin\Debug\SmartParkingUserGUI.exe
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\bin\Debug\SmartParkingUserGUI.pdb
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\bin\Debug\SmartParkingCore.dll
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\bin\Debug\SmartParkingCore.pdb
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\obj\Debug\AppTestsUserGUI.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\obj\Debug\SmartParkingUserGUI.frmAutorization.resources
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\obj\Debug\SmartParkingUserGUI.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\obj\Debug\AppTestsUserGUI.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\obj\Debug\AppTestsUserGUI.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\obj\Debug\AppTestsUserGUI.csproj.CopyComplete
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\obj\Debug\SmartParkingUserGUI.exe
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\obj\Debug\SmartParkingUserGUI.pdb
+C:\Users\Андрей\Desktop\Мария C#\AppTests\AppTestsGUI\obj\Debug\SmartParkingUserGUI.frmMain.resources
+C:\Users\student\Desktop\AppTests\AppTestsGUI\bin\Debug\Data\TestsData.json
+C:\Users\student\Desktop\AppTests\AppTestsGUI\bin\Debug\Data\Users.json
+C:\Users\student\Desktop\AppTests\AppTestsGUI\bin\Debug\SmartParkingUserGUI.exe.config
+C:\Users\student\Desktop\AppTests\AppTestsGUI\bin\Debug\SmartParkingUserGUI.exe
+C:\Users\student\Desktop\AppTests\AppTestsGUI\bin\Debug\SmartParkingUserGUI.pdb
+C:\Users\student\Desktop\AppTests\AppTestsGUI\bin\Debug\SmartParkingCore.dll
+C:\Users\student\Desktop\AppTests\AppTestsGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\AppTests\AppTestsGUI\bin\Debug\SmartParkingCore.pdb
+C:\Users\student\Desktop\AppTests\AppTestsGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\AppTests\AppTestsGUI\obj\Debug\AppTestsUserGUI.csprojAssemblyReference.cache
+C:\Users\student\Desktop\AppTests\AppTestsGUI\obj\Debug\SmartParkingUserGUI.frmAutorization.resources
+C:\Users\student\Desktop\AppTests\AppTestsGUI\obj\Debug\SmartParkingUserGUI.frmMain.resources
+C:\Users\student\Desktop\AppTests\AppTestsGUI\obj\Debug\SmartParkingUserGUI.Properties.Resources.resources
+C:\Users\student\Desktop\AppTests\AppTestsGUI\obj\Debug\AppTestsUserGUI.csproj.GenerateResource.cache
+C:\Users\student\Desktop\AppTests\AppTestsGUI\obj\Debug\AppTestsUserGUI.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\AppTests\AppTestsGUI\obj\Debug\AppTestsUserGUI.csproj.CopyComplete
+C:\Users\student\Desktop\AppTests\AppTestsGUI\obj\Debug\SmartParkingUserGUI.exe
+C:\Users\student\Desktop\AppTests\AppTestsGUI\obj\Debug\SmartParkingUserGUI.pdb

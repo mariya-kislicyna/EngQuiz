@@ -1,0 +1,12 @@
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\bin\Debug\Data\ParkingData.json
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\bin\Debug\Data\Tariffs.json
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\bin\Debug\Data\Users.json
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\bin\Debug\SmartParkingCore.dll
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\bin\Debug\SmartParkingCore.pdb
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\obj\Debug\SmartParkingCore.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\obj\Debug\SmartParkingCore.csproj.CopyComplete
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\obj\Debug\SmartParkingCore.dll
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\obj\Debug\SmartParkingCore.pdb
+C:\Users\Андрей\Desktop\Мария C#\SmartParkingApp_Completed\SmartParkingCore\obj\Debug\SmartParkingCore.csprojAssemblyReference.cache
